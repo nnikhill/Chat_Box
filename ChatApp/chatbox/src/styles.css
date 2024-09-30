@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  input:focus, button:focus {
+    outline: none;
+  }
+  
